@@ -16,3 +16,15 @@ Lessons learned by completing this project include finding the correct SQL state
 ### Screenshots of Current lvlbot Functionality
 Rank Function
 <img src="https://iili.io/dwOtVV.png" alt="rank function">
+
+Cookie Rank Function
+<img src="https://iili.io/dwOLDx.png" alt="rank function">
+
+Thanks Function
+<img src="https://iili.io/dwOiAb.png" alt="rank function">
+
+Cookie Leaderboard
+<img src="https://iili.io/dwOZoQ.png" alt="rank function">
+
+Experience Leaderboard
+<img src="https://iili.io/dwOsNj.png" alt="rank function">
